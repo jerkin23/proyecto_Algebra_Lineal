@@ -15,7 +15,7 @@ https://www.python.org/downloads/
 ● Instalar tesseract https://github.com/UB-Mannheim/tesseract/wiki no 
 olviden verificar donde lo instalan y colocar la dirección en la línea 11 y 
 12 del código, ejemplo: 
-![image](https://github.com/user-attachments/assets/06ec07fc-9e85-4c3a-9f2c-dc1526c57c14)
+[image](https://github.com/user-attachments/assets/06ec07fc-9e85-4c3a-9f2c-dc1526c57c14)
 
 
 
